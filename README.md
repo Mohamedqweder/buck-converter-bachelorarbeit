@@ -3,14 +3,11 @@
 Step-Down Converter PCB Design für Demonstrations- und Evaluierungsaufgaben.  
 Entwickelt mit **KiCad** im Rahmen der Bachelorarbeit.
 
-## Schaltplan
-![Schaltplan](Screenshot%202026-06-02%20222739.png)
+![Schaltplan](Screenshot%202026-07-30%20211245.png)
 
-## PCB-Layout
-![PCB-Layout](Screenshot%202026-06-04%20233138.png)
+![PCB-Layout](Screenshot%202026-07-30%20211221.png)
 
-## 3D-Ansicht
-![3D-Ansicht](Screenshot2026-07-30211305.png)
+![3D-Ansicht](Screenshot%202026-07-30%20211305.png)
 
 ## Funktionsblöcke
 - **Rampengenerator** – NE555P Timer
