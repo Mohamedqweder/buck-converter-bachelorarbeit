@@ -24,8 +24,8 @@ Entwickelt mit **KiCad** im Rahmen der Bachelorarbeit.
 - **Ausgangsfilter** – 50µH Induktivität + 470µF
 
 ## Downloads
-- [Bachelorarbeit Portfolio PDF](Bachelorarbeit_Portfolio.pdf)
-- [KiCad Projektdateien](bacholerarbeit2.zip)
+- [Bachelorarbeit Portfolio PDF](Bachelorarbeit_Portfolio%20(1).pdf)
+- [KiCad Projektdateien](bacholerarbeit-ende.zip)
 
 ## Tools
 KiCad · DRC: 0 Fehler · 0 Warnungen
