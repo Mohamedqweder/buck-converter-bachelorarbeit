@@ -10,7 +10,7 @@ Entwickelt mit **KiCad** im Rahmen der Bachelorarbeit.
 ![PCB-Layout](Screenshot%202026-06-04%20233138.png)
 
 ## 3D-Ansicht
-![3D-Ansicht](Screenshot%2026-07-30%211305.png)
+![3D-Ansicht](Screenshot2026-07-30211305.png)
 
 ## Funktionsblöcke
 - **Rampengenerator** – NE555P Timer
